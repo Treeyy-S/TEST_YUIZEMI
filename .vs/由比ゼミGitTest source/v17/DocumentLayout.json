@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\\u7531\u6BD4\u30BC\u30DFGitTest source\\",
+  "WorkspaceRootPath": "D:\\\u7531\u6BD4\u30BC\u30DFgitTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B5C15252-DCD3-4285-A2CF-677538F2BE3F}|\u7531\u6BD4\u30BC\u30DFGitTest source.vcxproj|D:\\\u7531\u6BD4\u30BC\u30DFGitTest source\\\u30BD\u30FC\u30B9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B5C15252-DCD3-4285-A2CF-677538F2BE3F}|\u7531\u6BD4\u30BC\u30DFGitTest source.vcxproj|solutionrelative:\u30BD\u30FC\u30B9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u7531\u6BD4\u30BC\u30DFgitTest\\\u30BD\u30FC\u30B9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:\u30BD\u30FC\u30B9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "\u30BD\u30FC\u30B9.cpp",
-              "DocumentMoniker": "D:\\\u7531\u6BD4\u30BC\u30DFGitTest source\\\u30BD\u30FC\u30B9.cpp",
+              "DocumentMoniker": "D:\\\u7531\u6BD4\u30BC\u30DFgitTest\\\u30BD\u30FC\u30B9.cpp",
               "RelativeDocumentMoniker": "\u30BD\u30FC\u30B9.cpp",
-              "ToolTip": "D:\\\u7531\u6BD4\u30BC\u30DFGitTest source\\\u30BD\u30FC\u30B9.cpp",
+              "ToolTip": "D:\\\u7531\u6BD4\u30BC\u30DFgitTest\\\u30BD\u30FC\u30B9.cpp",
               "RelativeToolTip": "\u30BD\u30FC\u30B9.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-08-21T05:48:42.401Z",
               "EditorCaption": ""
